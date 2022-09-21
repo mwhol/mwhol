@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://mwhol.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://mwhol.github.io/</loc>
+</url>
+<url>
+<loc>https://mwhol.github.io/this-is-just-a-test-post.html</loc>
+<lastmod>2022-09-20T21:48:27-05:00</lastmod>
+</url>
+<url>
+<loc>https://mwhol.github.io/various-notes-and-junk.html</loc>
+<lastmod>2022-09-20T22:05:08-05:00</lastmod>
+</url>
+</urlset>

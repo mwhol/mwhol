@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>My Blog</title>
+    <link href="https://mwhol.github.io/feed.xml" rel="self" />
+    <link href="https://mwhol.github.io" />
+    <updated>2022-09-20T22:05:08-05:00</updated>
+    <author>
+        <name>Michael</name>
+    </author>
+    <id>https://mwhol.github.io</id>
+
+    <entry>
+        <title>Various Notes and Junk</title>
+        <author>
+            <name>Michael</name>
+        </author>
+        <link href="https://mwhol.github.io/various-notes-and-junk.html"/>
+        <id>https://mwhol.github.io/various-notes-and-junk.html</id>
+
+        <updated>2022-09-20T22:05:08-05:00</updated>
+            <summary>
+                <![CDATA[
+                    It strikes me that a lot of the stuff I'm learning is semi-transient and hard to keep track of. This is basically my repository for all those small things that are easy to forget or misplace. Hopefully I will come back to some of these&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>It strikes me that a lot of the stuff I'm learning is semi-transient and hard to keep track of. This is basically my repository for all those small things that are easy to forget or misplace. Hopefully I will come back to some of these and flesh them out a bit more but if not then consider this something like a feed.</p>
+<p> </p>
+<p><strong>09/20/22</strong></p>
+<p>I found two pretty great twitters threads today, I need to think if there is some way of archiving these... </p>
+<p>Anyways the first is on how to perform initial exploration of datasets. There's some neat tools overall in there but in general I feel torn between the two most common answers - either excel or spinning up a small SQL db. I think on first pass I'd prefer Excel though. <a href="https://twitter.com/simonw/status/1572285367382061057">https://twitter.com/simonw/status/1572285367382061057</a></p>
+<p>This was a much smaller thread but about using Shap values to do other analysis. On first glance, I begin to feel uncomfortable when it is very easy to get very far from the actual features, transforming with Shapley values and then tossing into something like UMAP or tsne just seems a bit too far for me: <a href="https://twitter.com/tunguz/status/1572354991209476097">https://twitter.com/tunguz/status/1572354991209476097</a></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>This is just a test post</title>
+        <author>
+            <name>Michael</name>
+        </author>
+        <link href="https://mwhol.github.io/this-is-just-a-test-post.html"/>
+        <id>https://mwhol.github.io/this-is-just-a-test-post.html</id>
+
+        <updated>2022-09-20T21:48:27-05:00</updated>
+            <summary>
+                <![CDATA[
+                    to see if this whole thing works.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>to see if this whole thing works.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
